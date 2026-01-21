@@ -20,4 +20,4 @@ This project serves as the first capstone requirement for Zuitt Coding Bootcamp.
 
 ---
 
-_© 2024 Brian Bamba, all rights reserved._
+_© 2026 Brian Bamba, all rights reserved._
